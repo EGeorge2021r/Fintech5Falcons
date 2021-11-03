@@ -4,7 +4,7 @@ Team kick off meeting held 11/02/21
 Planning session scheduled 11/03/21
 Agenda:
 1. Project planning. 
-2. Product roadmap creation.
+2. Project roadmap creation.
 3. Release planning.
 4. Sprint planning.
 5. Daily stand-ups
