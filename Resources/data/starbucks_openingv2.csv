@@ -34,7 +34,7 @@ Opened,street_address,name,city,market,zip_code
 10/3/2021,,I-35 & Kohlers Crossing,Kyle,Texas\Austin,
 10/3/2021,,Louetta Rd and Vintage Preserve Pkw,Houston,Texas\Houston,
 10/3/2021,,"Salem, Canal Street",Salem,Massachusetts\Boston,
-10/3/2021,"611 W 22nd Street, Austin, TX 78705 ",Pickup - 22nd & Rio Grande,Austin,Texas\Austin,78705
+10/3/2021,"611 W 22nd Street, Austin",Pickup - 22nd & Rio Grande,Austin,Texas\Austin,78705
 10/2/2021,,Haynes Bridge and Devore Rd,Alpharetta,Georgia\Atlanta,
 10/2/2021,,"Drum Hill Rd, Chelmsford",Chelmsford,Massachusetts\Boston,
 10/2/2021,,Dale & Kaiser,Modesto,California\ModestoStockton,
@@ -747,7 +747,7 @@ Opened,street_address,name,city,market,zip_code
 6/18/2020,,I-95 & Skye Canyon,Las Vegas,Nevada\LasVegas,
 6/18/2020,,Steinbach Drive Thru,Steinbach,Manitoba,
 6/15/2020,,Glendale & Montana,Los Angeles,California\LosAngeles,
-6/15/2020,"2711 W Braker Lane, Austin, TX 78758",Burnet & Braker Lane,Austin,Texas\Austin,78758
+6/15/2020,"2711 W Braker Lane, Austin",Burnet & Braker Lane,Austin,Texas\Austin,78758
 6/15/2020,,150 Van Ness,San Francisco,California\SanFrancisco,
 6/15/2020,,Franklin Farm Village,Herndon,Virginia\NorthernVirginia,
 6/15/2020,,31st & Rt 169,Tulsa,Oklahoma\Tulsa,
@@ -800,7 +800,7 @@ Opened,street_address,name,city,market,zip_code
 5/7/2020,,I-10 & Cherry Valley Blvd.,Calimesa,California\RiversideCounty,
 5/6/2020,,Calumet St & Stoney Brook,Appleton,Wisconsin\NorthernWisconsin,
 5/6/2020,,167/24th - Sumner,Sumner,Washington\Tacoma,
-5/6/2020,"5145 N Fm 620 Ste A, Austin, TX 78681",FM 620 & Vista Park,Austin,Texas\Austin,78681
+5/6/2020,"5145 N Fm 620 Ste A, Austin",FM 620 & Vista Park,Austin,Texas\Austin,78681
 5/6/2020,,23rd & Market,Choctaw,Oklahoma\OklahomaRemoteMarkets,
 5/6/2020,,Las Vegas Boulevard and 215,Las Vegas,Nevada\LasVegas,
 5/6/2020,,Rancho California & Margarita,Temecula,California\RiversideCounty,
@@ -1473,7 +1473,7 @@ Opened,street_address,name,city,market,zip_code
 1/10/2019,,Roundhouse Centre,Windsor,Ontario\Windsor,
 1/10/2019,,Marinette - Roosevelt Rd,Marinette,Wisconsin\WisconsinRemoteMarkets,
 1/10/2019,,Overland & Washington Blvd,Culver City,California\WestLosAngeles,
-1/7/2019,"2401 Cardinal Loop, Austin, TX 78617",Hwy 71 & Cardinal Loop,Austin,Texas\Austin,78617
+1/7/2019,"2401 Cardinal Loop, Austin",Hwy 71 & Cardinal Loop,Austin,Texas\Austin,78617
 1/7/2019,,Sandhill & Hillside - Mesquite,Mesquite,Nevada\NevadaRemoteMarkets,
 1/7/2019,,I-10 and Warner,Tempe,Arizona\Phoenix,
 1/6/2019,,Cambridge Centre Indigo,Cambridge,Ontario\GreaterTorontoArea,
@@ -1625,7 +1625,7 @@ Opened,street_address,name,city,market,zip_code
 10/1/2018,,William D. Fitch and Arrington,College Station,Texas\CollegeStation,
 10/1/2018,,Wayzata Blvd and CR 101 - Wayzata,Wayzata,Minnesota\Minneapolis,
 10/1/2018,,Foothill Blvd & Castle,La Canada Flintridge,California\Verdugos,
-10/1/2018,"1200 Barton Springs Rd, Austin, TX 78704",Barton Springs & S. Lamar,Austin,Texas\Austin,78704
+10/1/2018,"1200 Barton Springs Rd, Austin",Barton Springs & S. Lamar,Austin,Texas\Austin,78704
 10/1/2018,,518 & Southern Trails Dr.,Pearland,Texas\Houston,
 10/1/2018,,287 & Sublett,Arlington,Texas\DallasFortWorth,
 10/1/2018,,John Deere Road & 7th Street,Moline,Illinois\IllinoisRemoteMarkets,
@@ -1804,7 +1804,7 @@ Opened,street_address,name,city,market,zip_code
 6/21/2018,,Swan & Fort Lowell,Tucson,Arizona\Tucson,
 6/21/2018,,Jefferson & Powell,San Francisco,California\SanFrancisco,
 6/18/2018,,Cicero & Archer,Chicago,Illinois\Chicago,
-6/18/2018,"3637 Far West Blvd, Austin, TX 78731",Far West Blvd at Hart Ln,Austin,Texas\Austin,78731
+6/18/2018,"3637 Far West Blvd, Austin",Far West Blvd at Hart Ln,Austin,Texas\Austin,78731
 6/18/2018,,Loop 1604 & Vance Jackson,San Antonio,Texas\SanAntonio,
 6/18/2018,,Loop 289 & 34th,Lubbock,Texas\Lubbock,
 6/18/2018,,SH 48 & SH 100,Port Isabel,Texas\RemoteMarkets,
@@ -2215,7 +2215,7 @@ Opened,street_address,name,city,market,zip_code
 9/29/2017,,Warner & 51st Street,Phoenix,Arizona\Phoenix,
 9/29/2017,,Town Ctr Pkwy & Brightman Blvd,Jacksonville,Florida\Jacksonville,
 9/29/2017,,32nd and Youngfield-Applewood,Wheat Ridge,Colorado\Denver,
-9/29/2017,"1606 E Parmer Lane Ste 100, Austin, TX 78753",Parmer & Dessau,Austin,Texas\Austin,78753
+9/29/2017,"1606 E Parmer Lane Ste 100, Austin",Parmer & Dessau,Austin,Texas\Austin,78753
 9/29/2017,,Poplar & Market,Collierville,Tennessee\Memphis,
 9/28/2017,,"Val Vista & Williams Field, Gilbert",Gilbert,Arizona\Phoenix,
 9/28/2017,,Clinton & Hwy 99,Fresno,California\CentralValley,
@@ -2224,7 +2224,7 @@ Opened,street_address,name,city,market,zip_code
 9/28/2017,,Hwy 97 & 37th Ave - Vernon DT,Vernon,BritishColumbia\EasternBritishColumbia,
 9/28/2017,,N Old Woodward & Maple,Birmingham,Michigan\Detroit,
 9/28/2017,,River Rd & Corydon,Norco,California\RiversideCounty,
-9/27/2017,"11410 N Mopac Expy Ste C09, Austin, TX 78759",The Domain Northside,Austin,Texas\Austin,78759
+9/27/2017,"11410 N Mopac Expy Ste C09, Austin",The Domain Northside,Austin,Texas\Austin,78759
 9/25/2017,,University & State,San Bernardino,California\SanBernardinoCounty,
 9/25/2017,,5th & University,Fort Worth,Texas\DallasFortWorth,
 9/25/2017,,"City Place, Asylum Street",Hartford,Connecticut\Hartford,
@@ -2556,7 +2556,7 @@ Opened,street_address,name,city,market,zip_code
 3/9/2017,,Valley & Rio Hondo,Rosemead,California\SanGabrielValley,
 3/9/2017,,First & Wetmore Rd,Tucson,Arizona\Tucson,
 3/9/2017,,Medford RT 541,Medford,NewJersey,
-3/8/2017,"9617 Anderson Mill Rd, Austin, TX 78750",Anderson Mill & 183,Austin,Texas\Austin,78750
+3/8/2017,"9617 Anderson Mill Rd, Austin",Anderson Mill & 183,Austin,Texas\Austin,78750
 3/6/2017,,183A & New Hope,Cedar Park,Texas\Austin,
 3/6/2017,,Saratoga Blvd. & Weber Rd.,Corpus Christi,Texas\SouthTexas,
 3/4/2017,,Glendale Pen Centre - 221 Glendale,St. Catharines,Ontario\NiagaraRegion,
@@ -2815,7 +2815,7 @@ Opened,street_address,name,city,market,zip_code
 8/30/2016,,Broadway & 30th,Oakland,California\AlamedaCounty,
 8/29/2016,,Yellowstone and Storey - Cheyenne,Cheyenne,Wyoming,
 8/29/2016,,Gravois and Rock Hill-Affton,Affton,Missouri\StLouis,
-8/29/2016,"516 W Oltorf St, Austin, TX 78704",1st & Oltorf,Austin,Texas\Austin,78704
+8/29/2016,"516 W Oltorf St, Austin",1st & Oltorf,Austin,Texas\Austin,78704
 8/29/2016,,Holt & Ramona,Montclair,California\SanBernardinoCounty,
 8/29/2016,,Sahara & Rye,Las Vegas,Nevada\LasVegas,
 8/27/2016,,Revelstoke Trans Canada,Revelstoke,BritishColumbia\EasternBritishColumbia,
@@ -3443,7 +3443,7 @@ Opened,street_address,name,city,market,zip_code
 4/10/2015,,The 580 Building,Cincinnati,Ohio\Cincinnati,
 4/10/2015,,OKelly Chapel Rd & Parkside Main St,Cary,NorthCarolina\RaleighDurhamChapelHill,
 4/9/2015,,Normal - Main & Raab,Normal,Illinois\IllinoisRemoteMarkets,
-4/7/2015,"300 E 4th St, Austin, TX 78701",Riverside & Arena,Austin,Texas\Austin,78701
+4/7/2015,"300 E 4th St, Austin",Riverside & Arena,Austin,Texas\Austin,78701
 4/3/2015,,North High and East Torrence,Columbus,Ohio\Columbus,
 4/2/2015,,Garey & Alvarado,Pomona,California\SanGabrielValley,
 4/1/2015,,Corporate Blvd and Commerce Circle,Baton Rouge,Louisiana\BatonRouge,
@@ -3535,7 +3535,7 @@ Opened,street_address,name,city,market,zip_code
 12/18/2014,,22nd & Hennepin - Kenwood Crossing,Minneapolis,Minnesota\Minneapolis,
 12/18/2014,,Rancho Vista & Town Center,Palmdale,California\AntelopeValley,
 12/18/2014,,Oak Lawn- 111th & Cicero,Oak Lawn,Illinois\Chicagoland,
-12/16/2014,"1801 E 51st St 190, Austin, TX 78723",Berkman & 51st,Austin,Texas\Austin,78723
+12/16/2014,"1801 E 51st St 190, Austin",Berkman & 51st,Austin,Texas\Austin,78723
 12/12/2014,,North Valdosta,Valdosta,Georgia\GeorgiaRemoteMarkets,
 12/11/2014,,"5th Avenue & L Street, San Diego",San Diego,California\SanDiego,
 12/11/2014,,Lighthouse Ave,Monterey,California\CentralCoast,
@@ -3888,7 +3888,7 @@ Opened,street_address,name,city,market,zip_code
 1/27/2014,,Hockessin,Hockessin,Delaware,
 1/24/2014,,A1A & 10th,Jacksonville Beach,Florida\Jacksonville,
 1/24/2014,,196th & Hwy 99,Lynnwood,Washington\Seattle,
-1/24/2014,"301 W 3rd St, Austin, TX 78701",3rd & Lavaca,Austin,Texas\Austin,78701
+1/24/2014,"301 W 3rd St, Austin",3rd & Lavaca,Austin,Texas\Austin,78701
 1/24/2014,,"I-84 & Garrity Blvd, ID",Nampa,Idaho\Boise,
 1/23/2014,,Bankview,Calgary,Alberta\Calgary,
 1/21/2014,,Riverstone Marketplace - Vancouver,Vancouver,Washington\SouthwesternWashington,
