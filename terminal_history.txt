@@ -1,0 +1,50 @@
+  162  git push origin main
+  163  git add -A
+  164  git commit -m "added markdown"
+  165  git push origin main
+  166  pip install beautifulsoup4
+  167  git add -A
+  168  git commit -m "updated codes in sections 1 -3"
+  169  git push origin main
+  170  git pull origin main
+  171  git add -A
+  172  git commit -m " commit update on egeorge file"
+  173  git push origin main
+  174  git add -A
+  175  git commit -m "Added coding in the analysis section"
+  176  git push origin main
+  177  git add -A
+  178  git commit -m "Commit section 4 analysis"
+  179  git push origin main
+  180  git add -A
+  181  git commit -m "Debugged and updated the analysis coding in section 4"
+  182  git push origin main
+  183  git add -A
+  184  git commit -m "Rerun code section 4 step 2 and debug"
+  185  git push origin main
+  186  git add -A
+  187  git commit -m "further coding and plotting of visualisation in section4"
+  188  git push origin main
+  189  git add -A
+  190  git commit -m "Created visualization to analyse geo location of Starbucks locations in Austin City" 
+  191  git push origin main
+  192  git add -A
+  193  git commit -m "Added more visualization to the Analysis section"
+  194  git push origin main
+  195  git add -A
+  196  git commit -m "updated visual removing zip code"
+  197  git push origin main
+  198  git add -A
+  199  git commit -m "commit updated plot without zip code"
+  200  git push origin main
+  201  gir add -A
+  202  git add -A
+  203  git add -A
+  204  git commit -m " updated READ ME"
+  205  git push origin main
+  206  git add -A
+  207  git commit -m "Added presentation1" 
+  208  git push origin main
+  209  git add -A
+  210  git commit -m "cleanup folders"
+  211  history 50 >terminal_history.txt
